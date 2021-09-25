@@ -16,7 +16,7 @@
   </a>
   </p>
 
-  > (Project description)
+  > A simple todo-list using Flutter and local-storage option.
 
   ## APP PREVIEW
 
